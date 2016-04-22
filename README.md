@@ -13,3 +13,5 @@ OpenSrf gateway example:
 * Download staff client from https://evergreen-ils.org/downloads/evergreen-setup-2.10.0.exe
 * Log in (admin / demo123)
 * http://demo.evergreencatalog.com/gateway?service=open-ils.cat&method=open-ils.cat.asset.copy_tree.retrieve&param=[AUTH TOKEN]&param=7016&param=5
+
+Find It example: http://libfind.linnbenton.edu/?search_field=all_fields&q=mexican+cooking&show_articles=false
